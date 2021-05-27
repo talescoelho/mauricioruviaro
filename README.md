@@ -3,7 +3,8 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=mauricioruviaro&show_icons=true&hide_border=true&theme=white" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mauricioruviaro&theme=white" width="48%" >
 <div align="center">
-<img src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif" height="250px" width="450px"> <img src="https://i.pinimg.com/originals/d6/96/17/d696177e218c58adfc827af063517b10.gif" height="250px" width="450px">
+ <h4>Um usuário de Linux usando outros sistemas operacionais</h4>
+<img src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif" height="150px" width="250px"> <img src="https://i.pinimg.com/originals/d6/96/17/d696177e218c58adfc827af063517b10.gif" height="150px" width="250px">
 </div>
 
 <h3>Se gostar dos meus projetos, considere me pagar um café! ☕ </h3>
@@ -12,20 +13,3 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/mauricioruviaro/count.svg" alt="Visitor Count" align="center" />
 </p>
-
-<!--
-**mauricioruviaro/mauricioruviaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
